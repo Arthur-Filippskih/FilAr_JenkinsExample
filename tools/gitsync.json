@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/Kyrales/vanessa-usher_mod/refs/heads/my_dev/resources/schema.json",
   "agent": "gitsync",
-  "v8Version": "8.3.25.1546",
+  "v8Version": "8.5.1.1302",
   "defaultInfobase": {
-    "connectionString": "/Fe:/1C/build/Demo83_otus_clear",
+    "connectionString": "/Fe:/Users/a.filippskih/Desktop/otus/Архитектор/Jenkins-Lib (gitsync, ci)/BaseDemoUP/DemoUP_clear",
     "auth": ""
   },
   "stages": {
