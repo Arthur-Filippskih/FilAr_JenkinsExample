@@ -3,7 +3,7 @@
     "storage-user": "DeployGit",
     "storage-pwd": "",
     "git-path": "git",
-    "domain-email": "otus.ru",
+    "domain-email": "mail.ru",
     "lic-try-count": 5,
     "plugins": {
       "enable": [
@@ -24,23 +24,23 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus",
+      "path": "C:\Users\a.filippskih\Desktop\otus\Архитектор\Jenkins-Lib (gitsync, ci)\StorageDemoUP1C\StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.25.1546",
+      "v8version": "8.5.1.1302",
       "plugins-config": {
-        "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+        "URL": "https://github.com/Arthur-Filippskih/FilAr_JenkinsExample.git"
       }
     },
     {
         "name": "YAXUNIT",
         "extension": "YAXUNIT",
-        "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
+        "path": "C:\Users\a.filippskih\Desktop\otus\Архитектор\Jenkins-Lib (gitsync, ci)\StorageDemoUP1C\StorageOtus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.3.25.1546",
+        "v8version": "8.5.1.1302",
         "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+          "URL": "https://github.com/Arthur-Filippskih/FilAr_JenkinsExample.git"
         }
      }
   ]
