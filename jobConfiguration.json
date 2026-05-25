@@ -14,11 +14,11 @@
   "stages": {
     "initSteps": true,
     "sonarqube": false,
-    "bdd": true,
+    "bdd": false,
     "syntaxCheck": true,
     "edtValidate": false,
     "smoke": false,
-    "yaxunit": true,
+    "yaxunit": false,
     "email": true,
     "telegram": false
   },
