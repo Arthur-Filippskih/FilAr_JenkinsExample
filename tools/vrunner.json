@@ -11,6 +11,6 @@
   },
   "vanessa": {
     "--vanessasettings": "./tools/VAParams.json",
-    "--pathvanessa": "C:/tools/vanessa-automation-single.epf"
+    "--pathvanessa": "C:/Users/a.filippskih/Desktop/otus/Архитектор/vanessa/vanessa-automation-single.1.2.043.19"
   }
 }
