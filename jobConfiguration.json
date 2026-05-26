@@ -43,7 +43,7 @@
     "initMethod": "fromSource",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "C:/JenkinsAgent/projects/BaseDemoUP/DemoUP/1Cv8.1CD",
+    "templateDBPath": "/Fc:/JenkinsAgent/projects/BaseDemoUP/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
