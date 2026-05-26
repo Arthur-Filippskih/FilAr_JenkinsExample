@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Kyrales/vanessa-usher_mod/refs/heads/my_dev/resources/schema.json",
   "agent": "gitsync",
-  "v8Version": "8.5.1.1302",
+  "v8Version": "8.3.27.1786",
   "defaultInfobase": {
     "connectionString": "C:/JenkinsAgent/projects/BaseDemoUP/DemoUP_clear"
     "auth": ""

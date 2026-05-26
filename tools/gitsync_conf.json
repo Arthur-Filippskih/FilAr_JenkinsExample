@@ -27,7 +27,7 @@
       "path": "C:/JenkinsAgent/projects/StorageDemoUP1C/StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.5.1.1302",
+      "v8version": "8.3.27.1786",
       "plugins-config": {
         "URL": "https://github.com/Arthur-Filippskih/FilAr_JenkinsExample.git"
       }
@@ -38,7 +38,7 @@
         "path": "C:/JenkinsAgent/projects/StorageDemoUP1C/StorageOtus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.5.1.1302",
+        "v8version": "8.3.27.1786",
         "plugins-config": {
           "URL": "https://github.com/Arthur-Filippskih/FilAr_JenkinsExample.git"
         }
