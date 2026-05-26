@@ -3,11 +3,7 @@
   "agent": "gitsync",
   "v8Version": "8.5.1.1302",
   "defaultInfobase": {
-<<<<<<< HEAD
-    "connectionString": "C:/Users/a.filippskih/Desktop/otus/Архитектор/JenkinsLib_gitsync_ci/BaseDemoUP/DemoUP_clear",
-=======
-    "connectionString": "/FC:/Users/a.filippskih/Desktop/otus/Архитектор/JenkinsLib_gitsync_ci/BaseDemoUP/DemoUP_clear",
->>>>>>> b588fd232d8b67245a04ba28b329fc02ce4bd590
+    "connectionString": "C:/JenkinsAgent/projects/BaseDemoUP/DemoUP_clear"
     "auth": ""
   },
   "stages": {

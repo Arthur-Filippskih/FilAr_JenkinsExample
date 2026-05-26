@@ -19,7 +19,7 @@
     "edtValidate": false,
     "smoke": false,
     "yaxunit": false,
-    "email": true,
+    "email": false,
     "telegram": false
   },
   "timeout": {
@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "C:/Users/a.filippskih/Desktop/otus/Архитектор/JenkinsLib_gitsync_ci/BaseDemoUP/DemoUP/1Cv8.1CD",
+    "templateDBPath": "C:/JenkinsAgent/projects/BaseDemoUP/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
