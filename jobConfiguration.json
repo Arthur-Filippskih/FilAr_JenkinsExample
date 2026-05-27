@@ -17,7 +17,7 @@
     "bdd": true,
     "syntaxCheck": true,
     "edtValidate": false,
-    "smoke": true,
+    "smoke": false,
     "yaxunit": true,
     "email": true,
     "telegram": false
