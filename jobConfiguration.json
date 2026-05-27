@@ -42,8 +42,6 @@
   "initInfobase": {
     "initMethod": "fromStorage",
     "runMigration": true,
-    "--storage-user": "DeployGit",
-    "--storage-pwd": "1234",
     "additionalInitializationSteps": [],
     "templateDBPath": "C:/JenkinsAgent/projects/BaseDemoUP/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
