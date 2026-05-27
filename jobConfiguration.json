@@ -40,10 +40,8 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromStorage",
+    "initMethod": "create",
     "runMigration": true,
-    "additionalInitializationSteps": [],
-    "templateDBPath": "C:/JenkinsAgent/projects/BaseDemoUP/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
